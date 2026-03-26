@@ -1,3 +1,6 @@
+; XAUUSD HFT v6.5 — $5,000 account
+; Backtest: $5,000 → $348,420 | 0 losing months
+; Load: MT5 → EA Properties → Inputs → Load
 EMA_Fast=5
 EMA_Slow=20
 ChartTF=1

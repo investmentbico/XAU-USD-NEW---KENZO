@@ -1,3 +1,6 @@
+; XAUUSD HFT v6.5 — $140,000 account
+; Scales: +0.10 lot per 10% equity gain from 1.00 base
+; Load: MT5 → EA Properties → Inputs → Load
 EMA_Fast=5
 EMA_Slow=20
 ChartTF=1
