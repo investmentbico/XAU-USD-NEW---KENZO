@@ -1,0 +1,6 @@
+*.log
+*.ex5
+hft_status.json
+__pycache__/
+*.pyc
+.DS_Store
